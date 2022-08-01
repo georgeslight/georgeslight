@@ -1,16 +1,21 @@
-### Hi, I'm George👋
 
-<!--
-**georgeslight/georgeslight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm George 👋
 
-Here are some ideas to get you started:
+<!-- I'm a a forever student -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :seedling: I’m currently pursuing a **Bachelor's degree in Business Computing at HTW Berlin - University of Applied Sciences**
+
+- :mailbox:How to reach me  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-slight-neira/)
+
+
+### :hammer_and_wrench: Languages and Tools :
+<p align="left">
+ <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> </code>
+ <code><img height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"> </code>
+ <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+ <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+ <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+ <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
+ <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
+ <code><img height="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+</p>
