@@ -3,7 +3,7 @@
 
 <!-- I'm a a forever student -->
 
-- :seedling: I’m currently pursuing a **Bachelor's degree in Business Computing at HTW Berlin - University of Applied Sciences**
+- :seedling: I’m currently pursuing a **Bachelor's degree in Business Information Systems at HTW Berlin - University of Applied Sciences**
 
 - :mailbox:How to reach me  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-slight-neira/)
 
