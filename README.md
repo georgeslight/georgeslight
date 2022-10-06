@@ -5,7 +5,7 @@
 
 - :mortar_board: I’m currently pursuing a **Bachelor's degree in Business Information Systems at HTW Berlin - University of Applied Sciences**
 
-- :seedling: I’m currently learning **Vue.js**
+- :seedling: Concurrently, I am learning **Node.js**
 
 - :mailbox:How to reach me  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-slight-neira/)
 
