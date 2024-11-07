@@ -24,5 +24,6 @@
  <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg"></code>
  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
+ <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/liquibase/liquibase-original-wordmark.svg"></code>
  <code><img height="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 </p>
