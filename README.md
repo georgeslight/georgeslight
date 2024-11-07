@@ -16,7 +16,12 @@
  <code><img height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"> </code>
  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+ <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"></code>
+ <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></code>
+ <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"></code>
  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+ <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
+ <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg"></code>
  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
  <code><img height="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
